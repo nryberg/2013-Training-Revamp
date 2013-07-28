@@ -1,0 +1,6 @@
+B) Your business partner has provided two spreadsheets of data to analyze.  They're the result of a report and some analytics she performed.  Your manager would like to get the data imported to the tool of choice and ready for quality confirmation checks.
+
+G) The spreadsheets import without a problem, but now we've got a SAP report in text file format and we would like to import location data from a database.  
+
+M) Our third party vendor has provided a couple of PDF reports - they're great because they can't be changed, but they're terrible because almost no analytic tool easily imports PDF data. 
+

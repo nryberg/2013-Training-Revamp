@@ -1,0 +1,5 @@
+B) Import the two spreadsheets and make sure they look accurate.
+
+G) Import the text file and location data from the database
+
+M) Import the vendor PDF reports

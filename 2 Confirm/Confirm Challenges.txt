@@ -1,0 +1,9 @@
+1) Data quality is a challenge no matter where you work.  How can you do good analytics if you can't make sure the base data is sufficiently accurate?  Where are the sources of problems:  User error, transcription, bad design, uncertain scoping, computer glitches, sabotage (intentional or otherwise)?  It doesn't matter - you need to demonstrate to your manager that your analytics rest on a foundation of thoroughly designed tests.
+
+What can you confirm your data against?  System Reports, other's analytics, published numbers, line-by-line testing, business area knowledge.
+
+Row counts and column totals can give you a quick snapshot into the data and provide comfort that you're relying on good data.
+
+2) Sometimes you have to dig deep for the errors.  We've heard that a computer glitch caused some of the data to be missing, some of it's out of order, and when the experts tried to repair the database, we think that there might be duplicated transactions.  
+
+3) We've counted rows, totaled columns, and ran some simple tests.  These are pretty true and false tests.  We think that some of the columns of data may have numbers that are above or below normal.  What even is normal?  Let's find out.

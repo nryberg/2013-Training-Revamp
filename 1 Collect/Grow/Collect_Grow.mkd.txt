@@ -1,0 +1,31 @@
+# Kickoff
+## Background
+
+Once you're comfortable importing spreadhseets, its on to harder questions.  Not every data source is in a spreadsheet.  There are vast resources of information on databases.  These provide the added benefit of once defined, they can often be refreshed as needed.  That way you don't have to worry too much about going through the laborious process of updating your sources as conditions change.  
+
+## Problem Statement
+The spreadsheets import without a problem, but now we've got a SAP report in text file format and we would like to import location data from a database.  
+
+## Objectives
+
+After this section, you will be able to walk through the process of importing a plain text file and build a live connection to a source database.   
+
+# Content
+
+1. Import a plain text file
+3. Import data from a database
+  * Connect to a database 
+  * Import a selected table
+  * Refresh the table 
+
+# Action
+
+## Activity
+
+1. Import the text file 
+2. Import Location data from the database
+
+## Quiz
+
+1. How many columns do you have in the plain text file
+2. How do you refresh the data in the table source

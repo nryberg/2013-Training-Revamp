@@ -1,0 +1,8 @@
+1) Our data is in the system, we've confirmed that things are pretty accurate, but when we looked at store opening dates, we realized they weren't coming in as dates - they just showed up as plain text.  In another table, we'd like to have comprehensive DPCI codes that are easy to read - just like in the store.
+
+What can we do to make basic changes to the type and selection of data?
+
+
+2) Sometimes good data is buried in a big pile of hay.  How do we uncover those hidden gems by picking out just the right piece of text?
+
+3) As we group and gather our data, it helps to have conditional fields.  These simple test fields deliver data depending on the condition of a different field.  In this case, we want to categorize sales by quantity into four simple levels - None, Low, Medium, High.
