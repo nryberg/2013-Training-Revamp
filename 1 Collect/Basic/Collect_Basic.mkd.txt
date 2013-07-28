@@ -1,0 +1,33 @@
+# Kickoff
+## Background
+
+Importing data is the first step in any anlaytics with any software package.  The more powerful products will let you combine various data sources into one project, but you're almost always going to start with gathering your data into one system.  As you get better at doing analytics, importing data will become routine and you'll quickly fly through these steps.  
+
+## Problem Statement
+
+Your business partner has provided one spreadsheets of data to analyze.  They're the result of a report and some analytics she performed.  Your manager would like to get the data imported to the tool of choice and ready for quality confirmation checks.  Along with this data, you have two reference spreadsheets that provide location and item specific data. 
+
+## Objectives
+
+Once you're done with this section, you should be able to import basic Excel spreadsheets and correct minor, visible data integrity problems. 
+
+Your goal is to import the sales data, location data and the item description data spreadsheets.
+
+# Content
+
+1. Import the sales spreadhseet
+2. Import the location spreadsheet
+3. Import the item spreadsheet
+
+# Action
+
+## Activity
+
+Import the three spreadsheets and make sure they look accurate.
+
+
+## Quiz
+
+1. What is the DPCI for the very first sales item?
+2. What is the name of the third store in the location table?
+3. What is the item number of the tenth item in the item table?
