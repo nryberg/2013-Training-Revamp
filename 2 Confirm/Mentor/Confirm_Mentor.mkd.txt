@@ -1,0 +1,33 @@
+# Kickoff
+## Background
+
+We've counted rows, totaled columns, and ran some simple tests.  These are pretty true and false tests.  We think that some of the columns of data may have numbers that are above or below normal.  What even is normal?  Let's find out.
+
+## Problem Statement
+
+Our business partner isn't convinced that we've done a thorough job on our analytics, and in particular is concerned about outliers and numbers that aren't expected.  
+
+## Objectives
+
+After this section, you will be able to 
+
+# Content
+
+1. Standard Deviation Statistics 
+2. Histograms
+3. Benford's Tests
+
+# Action
+
+## Activity
+
+1. Run the standard deviation statistics on the Total Sales Amount
+2. Do a histogram on the  Total Sales Amount
+3. Run a Benford's Test on the Total Sales amount
+
+
+## Quiz
+
+1. What is the standard deviation for Total Sales.  What does this mean for the average?
+2. What is the maximum range of the histogram?
+3. What digit is below the expected value?

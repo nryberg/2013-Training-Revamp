@@ -1,0 +1,29 @@
+# Kickoff
+## Background
+
+Data integrity problems sometimes become the key issue.  How the data is arranged, and whether or not there are gaps and duplicates can lead to serious issues down the road with your analytics.
+
+## Problem Statement
+Sometimes you have to dig deep for the errors.  We've heard that a computer glitch caused some of the data to be missing, some of it's out of order, and when the experts tried to repair the database, we think that there might be duplicated transactions.  
+
+## Objectives
+
+After this section, you will be able to quickly run integrity checks on the internals of the data uncovering gaps, duplicates and sequencing errors.  
+
+# Content
+
+1. Gap Test 
+2. Duplicate Test
+3. Sequence Test
+
+# Action
+
+## Activity
+
+1. Run Gaps Test on Store locations in Sales
+2. Run Duplicates Test on Stores
+3. Run Sequence Test on Store Number
+
+## Quiz
+
+1. Are there.. 

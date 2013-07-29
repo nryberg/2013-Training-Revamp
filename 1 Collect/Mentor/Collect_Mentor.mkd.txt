@@ -14,8 +14,6 @@ Your objective is to import these PDF's, ignore the formatting and create a usef
 # Content
 
 1. Importing PDF's 
-2. Part 2
-3. Part 3
 
 # Action
 

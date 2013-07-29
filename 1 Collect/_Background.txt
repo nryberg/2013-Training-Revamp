@@ -1,1 +1,0 @@
-Importing data is the first step in any anlaytics with any software package.  Getting skilled at importing, cleaning and understanding your data is a basic requirement for quickly and easily developing your analytics.  Eventually, this should be the least amount of time spent in the process.

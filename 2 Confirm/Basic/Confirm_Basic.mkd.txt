@@ -1,35 +1,36 @@
 # Kickoff
 ## Background
 
-Importing data is the first step in any anlaytics with any software package.  The more powerful products will let you combine various data sources into one project, but you're almost always going to start with gathering your data into one system.  As you get better at doing analytics, importing data will become routine and you'll quickly fly through these steps.  
+Data quality is a challenge no matter where you work.  How can you do good analytics if you can't make sure the base data is sufficiently accurate?  Where are the sources of problems:  User error, transcription, bad design, uncertain scoping, computer glitches, sabotage (intentional or otherwise)?  It doesn't matter - you need to demonstrate to your manager that your analytics rest on a foundation of thoroughly designed tests.
 
-Quite often spreadsheets have a little or even a lot of formatting around the data.  The trick with importing this is to remove as much of it as possible ahead of time.  The very first row should just be field or column names.  Unmerge any merged cells ahead of time.  
 
 ## Problem Statement
 
-Your business partner has provided one spreadsheets of data to analyze.  They're the result of a report and some analytics she performed.  Your manager would like to get the data imported to the tool of choice and ready for quality confirmation checks.  Along with this data, you have two reference spreadsheets that provide location and item specific data. 
+
+What can you confirm your data against?  System Reports, other's analytics, published numbers, line-by-line testing, business area knowledge.
+
+Row counts, column totals and simple statistics can give you a quick snapshot into the data and provide comfort that you're relying on good data.
 
 ## Objectives
 
-Once you're done with this section, you should be able to import basic Excel spreadsheets and correct minor, visible data integrity problems. 
+Once you're done with this section, you should be able to do row counts, column totals and simple statistics on columns. 
 
-Your goal is to import the sales data, location data and the item description data spreadsheets.
 
 # Content
 
-1. Import the sales spreadhseet
-2. Import the location spreadsheet
-3. Import the item spreadsheet
+1. Count the rows
+2. Total Columns
+3. Simple Statistics
 
 # Action
 
 ## Activity
 
-Import the three spreadsheets and make sure they look accurate.
+Your goal is to test the rows in the source data and make sure that the amounts tie out to the expected values.
 
 
 ## Quiz
 
-1. What is the DPCI for the very first sales item?
-2. What is the name of the third store in the location table?
-3. What is the item number of the tenth item in the item table?
+1. What is the number of rows in the location table?
+2. What is the total sales quantity in the sales table?
+3. Run statistics on the sales quantity column.  What's the minimum, average and maximum values?
