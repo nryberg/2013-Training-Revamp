@@ -1,0 +1,43 @@
+# Kickoff
+## Background
+
+This training series will guide you through the process of gathering, analyzing and sharing results based on business data.  There are nine major phases of analytics.  Each of the nine phases is broken into beginning, intermediate and advanced level content.  For the sake of this training, we call this the begin, grow and mentor sections for each of the nine phases.
+
+Each of section includes a background, a problem statement, objectives, content, activities and quiz questions.  
+
+There are sample data files located on the SharePoint site where this training can be found.  
+
+This training follows the Lynda.Com approach to development and staging.  
+
+Training in analytics is challenging.  In person training assumes that everyone learns at the same speed and level.  Book based training is great, but often too complex or too basic.  Online training can be delivered when the learner is interested and available, and if broken into easy to use sections, they can follow along at the level that works best for their skills and availabilities.
+
+## Problem Statement
+
+You're interested in learning analytics for the first time, or are looking to hone already native skills and abilities.  How do you find a path that works for you on your time schedule?
+
+## Objectives
+
+At the end of this training, you should be able to perform a wide variety of analytic tasks, delivering useful results to your business partners and customers quickly. 
+
+# Content
+
+The nine phases are:
+
+1. Collect
+2. Confirm
+3. Change
+4. Choose
+5. Combine
+6. Condense
+7. See
+8. Collaborate
+9. Automate
+
+
+## Activity
+
+1. Based on your self knowledge, pick the path that feels right to you.  Begin, Grow or Mentor - don't worry - if you're at a level that's too low or high, simply switch up or down as appropriate.
+
+## Quiz
+
+1. What will you do with your newfound skills?

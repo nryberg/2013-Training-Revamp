@@ -1,0 +1,32 @@
+# Kickoff
+## Background
+
+Importing data is the first step in any anlaytics with any software package.  Exporting the data is often the last step in the analytics.  Every analytic tool should make it easy for you to export your information in a usable format.  Excel is by the most common format for sharing data in Target. 
+
+## Problem Statement
+
+Your business partner would like to see the results of your testing in an Excel spreadsheet.  See if you can find the quickest way to share your results with Excel.
+
+## Objectives
+
+Once you're done with this section, you should be able to export basic Excel spreadsheets and providing simple formatting that will dramatically improve the readability.  
+
+Your goal is to export the condensed sales data by state, and by city and state to Excel using two different methods. 
+
+# Content
+
+1. Export the sales by state table to a spreadhseet using the clipboard
+2. Export the sales by state and city to a spreadsheet using the direct export
+3. Provide simple formatting to make the results easier to read. 
+
+# Action
+
+## Activity
+
+Export the two results to spreadsheets and make sure they look accurate.
+
+
+## Quiz
+
+1. What is the name of the output Excel spreadsheet for the sales by state?
+2. Using Excel, sort the data - which state pops to the top and bottom?

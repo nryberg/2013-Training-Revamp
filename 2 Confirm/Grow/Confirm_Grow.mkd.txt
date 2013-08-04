@@ -26,4 +26,6 @@ After this section, you will be able to quickly run integrity checks on the inte
 
 ## Quiz
 
-1. Are there.. 
+1. What is the widest range of gaps in store numbers?
+2. Are there any location numbers that are reused?
+3. Are all the store locations in sequential order/ 

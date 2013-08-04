@@ -1,0 +1,38 @@
+# Kickoff
+## Background
+
+On occasion, the data you're getting from your sources is perfectly formatted and ready to be used.  Just as rarely, the data you have is in a  completely different format than what you need.  In most cases, there are just minor tweaks that can make the data more readable and always more testable.
+
+In this section we will focus on the majority of fixes - simple but effective.  
+
+We rely on the fact that most computer systems and analytic tools group data into one of four types - text, number, date and logical true/false.  Take a few minutes to review the data types section of the analytic glossary.  
+
+## Problem Statement
+
+Our data is in the system, we've confirmed that things are pretty accurate, but when we looked at store opening dates, we realized they weren't coming in as dates - they just showed up as plain text.  In another table, we'd like to have comprehensive DPCI codes that are easy to read - just like in the store. 
+
+What can we do to make basic changes to the type and selection of data?
+
+## Objectives
+
+After this section, you will be able to change the format of a field between text and a number, and between text and a date. 
+
+# Content
+
+1. Basic Expressions
+2. Type conversions
+3. Calendars
+
+# Action
+
+## Activity
+
+1. Create a new text field in the Stores table with a "T-" and the store number
+2. Create a field in the sales table that multiplies the RETL_A and WKLY_SLS_Q for a "Total Sales Amount"
+3. Create a number field in the location table that calculates the number of days a store has been open. 
+
+
+## Quiz
+
+1. What is the total value for the "Total Sales Amount" Field?
+2. Do a simple statistics on the number field that calculates the days a location has been open. 

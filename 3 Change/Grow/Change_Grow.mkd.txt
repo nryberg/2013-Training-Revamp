@@ -1,0 +1,31 @@
+# Kickoff
+## Background
+
+Sometimes good data is buried in a big pile of hay.  How do we uncover those hidden gems by picking out just the right piece of text?
+
+Great analytic tools provide powerful ways to conditionally select just the right pieces of information from larger fields.  
+
+## Problem Statement
+
+You've been provided a list of item descriptions for fireworks.  Unsurprisingly, the description starts with the word Fireworks.  We already know what we're working with, so we'd like to remove the first word in the description if it's "Fireworks"
+
+## Objectives
+
+After this section, you will be able to do beginning text manipulation with arrays of strings.  This is beginning programming skills!
+
+# Content
+
+1. String Manipulation
+2. Conditional Values
+
+
+# Action
+
+## Activity
+
+1. Remove the first word of the description if it's "FIREWORKS"
+
+
+## Quiz
+
+1. How many times do you have to remove the word "FIREWORKS" - does it make it more readable?

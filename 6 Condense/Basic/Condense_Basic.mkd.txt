@@ -1,0 +1,38 @@
+# Kickoff
+## Background
+
+Millions of rows of data and hundreds of columns of fields.  What does it all mean?  How can I make actionable decisions based on the all of this data?  We've got a valuable resource - condensing the data down into something meaningful is where we can start making informed business decisions to help guide the company to a better outcome.
+
+Summarizing information comes in one of two flavors - text and numbers.  This section covers text analytics only - for more advanced condensing of data by numbers, see the Condense Grow section.
+
+Remember, data only comes in one of four major flavors, and for the work we're doing, we only care about text and numbers.  Condensing around dates is a combination of text and numbers.
+
+We can do a lot around text analysis.  Classifications are simple summaries by one text field.  Summarizations can have multiple levels of different fields.  The most interesting of all is the Cross Tab which analyzes data between two different text fields. 
+
+## Problem Statement
+
+We have a set of data around sales and related geographic state.  We'd like to dig into it a little bit and think about which states have the highest sales.  We would also like to roll the data up by city and then state.  Are there particular cities within the states that are very active?  Finally, we'd like to make a crosstab between the Item Number and the State.   For all of these tests, we'd like to see the quick view and also create a results table based on the analytics.   
+
+## Objectives
+
+At the end of this training, you should be able to classify, summarize and cross-tabulate data using text fields. 
+
+# Content
+
+1. Classification
+2. Summarization
+3. Cross-Tabulate
+
+# Action
+
+## Activity
+
+1. Classify Sales by State
+2. Summarize Sales by City and State
+3. Cross-tabulate by State and Sales volume code
+
+## Quiz
+
+1. What's the highest State sales quantity?
+2. Estimate Which city dominates the total state sales by the most amount?
+3. Comparingr state and sales volume code, which combination stands out the most?

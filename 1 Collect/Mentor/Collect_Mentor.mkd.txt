@@ -1,8 +1,7 @@
 # Kickoff
 ## Background
 PDF files are a blessing and a curse.  They can't be changed after they've been created.  They're easy to read on almost any device.  That's the good news.  The bad news is that while it's great to have the frozen formatting, actually doing anything with data embedded in a PDF is nightmarish bordering on the extreme.  Fortunately, certain analytic tools give us pretty effective ways to extract the useful information out of the pile of pretty but useless formatting.  
-
-The good news about this kind of work is that can be very similar to working with plain text files.  
+ 
 
 ## Problem Statement
 Our third party vendor has provided a couple of PDF reports - they're great because they can't be changed, but they're terrible because almost no analytic tool easily imports PDF data. 
@@ -22,5 +21,8 @@ Your objective is to import these PDF's, ignore the formatting and create a usef
 Import the vendor PDF reports
 
 ## Quiz
+
+1. What is the total value of line items for the PDF bank statement?
+
 
 ## Teach back

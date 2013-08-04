@@ -1,0 +1,33 @@
+# Kickoff
+## Background
+
+Data gathering into systems is about reducing the problem that you're tracking down to the smallest possible set of details.  We only have so much computer space and power, so we have to tightly scope and focus the things that get recorded.  When we're looking at the data with analytic tools, sometimes we need to bring in the context of the data.  We might have several sales transactions at different stores - what kinds of stores are these, and where are they located.  
+
+Analytic tools provide ways to relate and join two different tables of data together into a new, more complete picture.  Relationships are the easiest way to connect sources together.  You may have seen VLOOKUPs in Excel - we lookup a value from one field and get the related data from another worksheet.  
+
+This ability to connect is built into every database system and most of the analytic tools at our fingertips.
+
+## Problem Statement
+
+We have sales data for many different stores, and we'd like to dig into it and see if there some interesting patterns around the state.  Are certain states unusually high or low in sales?
+
+
+## Objectives
+
+At the end of this training, you should be able to connect two different tables of data together, and then show the related data quickly.
+
+# Content
+
+1. Build the relationship
+2. Show the related fields
+
+# Action
+
+## Activity
+
+1. Relate the sales to the Store Address table
+2. Include the state field.  
+
+## Quiz
+
+1. On the first page of sales, what is the most common state?

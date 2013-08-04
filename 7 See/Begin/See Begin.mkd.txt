@@ -1,0 +1,26 @@
+# Kickoff
+## Background
+
+A picture can tell a thousand words - an analytic graphic can display a million data points in one click.  Visualizing the data can uncover useful patterns for better analytics.  By showing what's going on rather than just a list of datapoints, you and your business partners will be able to talk through the conditions much more quickly, focus on high risk areas and drive the analytics to another level of understanding.
+
+## Problem Statement
+
+We'd like to visually compare the total sales volume by store.  We can do this with a classification - but that automatically generates a text table.  What does it look like in real life?
+
+## Objectives
+
+After this section, you will be able to do basic visualization of data patterns.  Depending on the analytic tool of choice - this may be easier or harder.
+
+# Content
+
+1. Classify on the text version of the store number.  
+
+# Action
+
+## Activity
+
+1. Visually identify the store with the highest and lowest sales.  
+
+## Quiz
+
+1. Which store number stands out the most?

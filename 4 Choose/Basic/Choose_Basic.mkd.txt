@@ -1,0 +1,32 @@
+# Kickoff
+## Background
+
+Have you ever felt swamped by work?  Too many meetings, phone calls, tasks and drive-by meetings that make it impossible for you focus and be productive?  Analytics suffers from the same blessing and curse of too many fields, way too many records and usually too many tables.  As you import data and start working with it, the hard part at first is finding a place to focus. 
+
+Our brains are wired to only handle one thing at a time.  We can switch quickly between one task and another, but the more effort it takes to process, the harder it is to switch.  Make it easier on yourself by only choosing the data pieces you want to compare and segmenting the analytic work into different views for different tests.  
+
+## Problem Statement
+
+Your sales data contains columns that you don't need and rows that don't help.  We want to focus on the location, sales amounts and item numbers of 4 only.
+
+## Objectives
+
+After this section, you will be able to easily select only the relevant columns and rows of data you need and apply quick filters to get to the information you want. 
+
+# Content
+
+1. A room with a view. 
+2. Row row your boat
+3. Quick Sorts
+
+# Action
+
+## Activity
+
+1. Create a new view with just the On Hand Quantity (OH_Q) and the Weekly Sales (WKLY_SLS_Q) fields. 
+2. Select only the rows with an on hand quantity that is not zero.
+
+## Quiz
+
+1. Visually glancing through the data, does it look like there's a relationship between on hand and weekly sales quantities?
+2. Do the simple statistics on the weekly sales with just zero amounts on hand and those with a number (positive or negative).  What is the difference in average and total sales quanities for the different values?

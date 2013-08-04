@@ -1,0 +1,35 @@
+# Kickoff
+## Background
+
+We're working with computers, and wherever possible, we should be using automation to simplify and speed up the process of analyzing our data. If there's a task that you have to repeat on a regular basis, there's probably a way to get our programs to run them for ourselves.
+
+This section will just focus on simple repetitive scripts that can be run at any time. 
+
+## Problem Statement
+
+Your business partner loves the summary of sales by state and wants it run every two weeks.  The analytics are simple and straightforward and you've got a direct link to the fresh data.  
+
+Use the scripting abilities of your analytic tool to make it easy to update and share the report results. 
+
+## Objectives
+
+Once you're done with this section, you should be able to refresh data, pull a report and export it to Excel - all at the click of a button. 
+
+# Content
+
+1. Showing Table History
+2. Creating a script using the Table History
+3. Renaming and commenting the script for ease of reuse. 
+
+# Action
+
+## Activity
+
+Build out automation to make running the report as simple as 1-2-3.
+
+## Quiz
+
+1. How long does it take for you to run the reports manually?
+2. Do you ever make mistakes doing the process manually?
+3. How long does it take to run the reports using scripting?
+4. Can you make mistakes with scripting?

@@ -9,7 +9,7 @@ Our business partner isn't convinced that we've done a thorough job on our analy
 
 ## Objectives
 
-After this section, you will be able to 
+After this section, you will be able to dig deeper into the patterns in the numbers and uncover outliers, determine the shape of the data, and used advanced analytics to uncover odd number use situations. 
 
 # Content
 

@@ -3,6 +3,10 @@
 
 Once you're comfortable importing spreadhseets, its on to harder questions.  Not every data source is in a spreadsheet.  There are vast resources of information on databases.  These provide the added benefit of once defined, they can often be refreshed as needed.  That way you don't have to worry too much about going through the laborious process of updating your sources as conditions change.  
 
+While Excel spreadsheets are the default language of analytics data, the best format is the very simplest.  Text files have no formatting other than some sort of delimiter or marker to show the difference between one value or field in the row and the next. 
+
+See glossary for "Delimiter".
+
 ## Problem Statement
 The spreadsheets import without a problem, but now we've got a SAP report in text file format and we would like to import location data from a database.  
 
